@@ -27,6 +27,7 @@ public class app{
 	public void newMethod(){
 		//no statements
 	}
+	//addition statement
 }
   
 
