@@ -9,5 +9,8 @@ public class app{
 		//more commands in this 
 		//method
 	}
+	public third(){
+		//no commands
+	}
 }
   
