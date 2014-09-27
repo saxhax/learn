@@ -5,6 +5,11 @@ public class app{
 	public void run(){
 		//more commands 
 	}
+	public first(){
+		//more
+		//lines
+		//comment
+	}
 	public second(){
 		//more commands in this 
 		//method
