@@ -4,7 +4,11 @@ public class app{
 	//description
 	public app(){}
 	public void run(){
-		//more commands 
+		//more commands
+		//new comment
+	}
+	public void add(){
+		new Long();
 	}
 	public first(){
 		//this
