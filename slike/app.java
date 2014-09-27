@@ -16,6 +16,7 @@ public class app{
 		//new
 		//method
 	}
+	//this is new line
 	public second(){
 		//more commands in this 
 		//method
