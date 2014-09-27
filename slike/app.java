@@ -1,6 +1,7 @@
 import slike.java
 
 public class app{
+	//description
 	public app(){}
 	public void run(){
 		//more commands 
@@ -15,5 +16,10 @@ public class app{
 		//more commands in this 
 		//method
 	}
+	//adition comment
+	public void newMethod(){
+		//no statements
+	}
 }
   
+
